@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T15:26:02.912212Z",
+  "generatedAt": "2026-05-29T02:08:03.728552Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 83,
+  "totalBlogFilesScanned": 84,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-05-28-mori",
+      "title": "Win on TCO: How AMD Instinct\u2122 MI355X Achieves Cost-Competitive Distributed Inference Through SGLang with MoRI",
+      "url": "https://lmsys.org/blog/2026-05-28-mori/",
+      "image": "https://lmsys.org/images/blog/mori/tco1-new.png",
+      "date": "May 28, 2026"
+    },
     {
       "slug": "2026-04-29-p2p-update",
       "title": "Updating 1T parameters in seconds \u2014 P2P weight transfer in Large Scale Distributed RL",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-03-25-eep-partial-failure-tolerance/",
       "image": "https://lmsys.org/images/blog/eep-partial-failure-tolerance/figure.png",
       "date": "March 25, 2026"
-    },
-    {
-      "slug": "2026-03-17-rocm-miles-rl-amd",
-      "title": "ROCm Support for Miles: Large-Scale RL Post-Training on AMD Instinct\u2122 GPUs",
-      "url": "https://lmsys.org/blog/2026-03-17-rocm-miles-rl-amd/",
-      "image": "https://lmsys.org/images/blog/rocm_miles_rl/fig_1.png",
-      "date": "March 17, 2026"
     }
   ]
 }
