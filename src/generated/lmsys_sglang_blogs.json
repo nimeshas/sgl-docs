@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T02:39:36.290177Z",
+  "generatedAt": "2026-06-01T17:15:25.587661Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 84,
+  "totalBlogFilesScanned": 85,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-06-01-hetero-epd",
+      "title": "Heterogeneous CPU + GPU EPD Disaggregation to Boost VLM Serving",
+      "url": "https://lmsys.org/blog/2026-06-01-hetero-epd/",
+      "image": "https://lmsys.org/images/blog/hetero-epd/1.png",
+      "date": "May 29, 2026"
+    },
     {
       "slug": "2026-05-28-mori",
       "title": "Win on TCO: How AMD Instinct\u2122 MI355X Achieves Cost-Competitive Distributed Inference Through SGLang with MoRI",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-03-25-gtc2026/",
       "image": "https://lmsys.org/images/blog/gtc2026/happyhour-crowd.jpg",
       "date": "March 31, 2026"
-    },
-    {
-      "slug": "2026-03-25-eep-partial-failure-tolerance",
-      "title": "Elastic EP in SGLang: Achieving Partial Failure Tolerance for DeepSeek MoE Deployments",
-      "url": "https://lmsys.org/blog/2026-03-25-eep-partial-failure-tolerance/",
-      "image": "https://lmsys.org/images/blog/eep-partial-failure-tolerance/figure.png",
-      "date": "March 25, 2026"
     }
   ]
 }
