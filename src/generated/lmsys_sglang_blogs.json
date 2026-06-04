@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T02:40:06.603156Z",
+  "generatedAt": "2026-06-04T14:33:03.587430Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 85,
+  "totalBlogFilesScanned": 86,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-06-04-nvidia-run-nemotron-3-ultra",
+      "title": "SGLang and Miles Add Day-0 Support for NVIDIA Nemotron 3 Ultra for Long-Running Autonomous Agents",
+      "url": "https://lmsys.org/blog/2026-06-04-nvidia-run-nemotron-3-ultra/",
+      "image": "https://lmsys.org/images/blog/nemotron-3-ultra/image1.png",
+      "date": "June 4, 2026"
+    },
     {
       "slug": "2026-06-01-hetero-epd",
       "title": "Heterogeneous CPU + GPU EPD Disaggregation to Boost VLM Serving",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-04-10-sglang-hisparse/",
       "image": "https://lmsys.org/images/blog/hisparse/hisparse_overview.png",
       "date": "April 10, 2026"
-    },
-    {
-      "slug": "2026-03-25-gtc2026",
-      "title": "Highlights of SGLang at NVIDIA GTC 2026",
-      "url": "https://lmsys.org/blog/2026-03-25-gtc2026/",
-      "image": "https://lmsys.org/images/blog/gtc2026/happyhour-crowd.jpg",
-      "date": "March 31, 2026"
     }
   ]
 }
