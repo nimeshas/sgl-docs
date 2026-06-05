@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T14:33:03.587430Z",
+  "generatedAt": "2026-06-05T02:14:57.919768Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,7 +10,7 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 86,
+  "totalBlogFilesScanned": 87,
   "cardsPublished": 6,
   "posts": [
     {
@@ -18,6 +18,13 @@
       "title": "SGLang and Miles Add Day-0 Support for NVIDIA Nemotron 3 Ultra for Long-Running Autonomous Agents",
       "url": "https://lmsys.org/blog/2026-06-04-nvidia-run-nemotron-3-ultra/",
       "image": "https://lmsys.org/images/blog/nemotron-3-ultra/image1.png",
+      "date": "June 4, 2026"
+    },
+    {
+      "slug": "2026-06-04-higgs-audio-v3-tts",
+      "title": "Higgs Audio v3 TTS on SGLang-Omni: Real-Time, Controllable Speech for Voice Agents",
+      "url": "https://lmsys.org/blog/2026-06-04-higgs-audio-v3-tts/",
+      "image": "https://sgl-project.github.io/sglang-omni/_images/higgs-architecture.png",
       "date": "June 4, 2026"
     },
     {
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-04-25-deepseek-v4/",
       "image": "https://lmsys.org/images/blog/deepseek_v4/benchmark_vs_oss.png",
       "date": "April 25, 2026"
-    },
-    {
-      "slug": "2026-04-10-sglang-hisparse",
-      "title": "HiSparse: Turbocharging Sparse Attention with Hierarchical Memory",
-      "url": "https://lmsys.org/blog/2026-04-10-sglang-hisparse/",
-      "image": "https://lmsys.org/images/blog/hisparse/hisparse_overview.png",
-      "date": "April 10, 2026"
     }
   ]
 }
