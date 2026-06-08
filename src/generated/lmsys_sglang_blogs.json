@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T13:20:15.378292Z",
+  "generatedAt": "2026-06-08T02:37:48.121704Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 87,
+  "totalBlogFilesScanned": 88,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-06-08-lmsys-phd-fellowship",
+      "title": "Announcing the Recipient of the 2026 LMSYS PhD Fellowship",
+      "url": "https://lmsys.org/blog/2026-06-08-lmsys-phd-fellowship/",
+      "image": "https://lmsys.org/images/blog/fellowship_apply/fellowship_program.png",
+      "date": "June 08, 2026"
+    },
     {
       "slug": "2026-06-04-nvidia-run-nemotron-3-ultra",
       "title": "SGLang and Miles Add Day-0 Support for NVIDIA Nemotron 3 Ultra for Long-Running Autonomous Agents",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-04-29-p2p-update/",
       "image": "https://lmsys.org/images/blog/p2p-update/p2p-overview.png",
       "date": "April 29, 2026"
-    },
-    {
-      "slug": "2026-04-25-deepseek-v4",
-      "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
-      "url": "https://lmsys.org/blog/2026-04-25-deepseek-v4/",
-      "image": "https://lmsys.org/images/blog/deepseek_v4/benchmark_vs_oss.png",
-      "date": "April 25, 2026"
     }
   ]
 }
