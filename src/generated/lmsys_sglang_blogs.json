@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T14:24:03.475565Z",
+  "generatedAt": "2026-06-10T02:28:25.461756Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,7 +10,7 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 88,
+  "totalBlogFilesScanned": 89,
   "cardsPublished": 6,
   "posts": [
     {
