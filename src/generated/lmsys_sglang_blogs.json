@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T02:38:25.943229Z",
+  "generatedAt": "2026-06-18T14:45:42.168575Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 91,
+  "totalBlogFilesScanned": 92,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-06-17-moss-tts-local-v15",
+      "title": "MOSS-TTS Local Transformer v1.5 on SGLang-Omni: Serving Native-Streaming 48 kHz Speech",
+      "url": "https://lmsys.org/blog/2026-06-17-moss-tts-local-v15/",
+      "image": "https://raw.githubusercontent.com/zhaochenyang20/Awesome-ML-SYS-Tutorial/main/sglang/sglang-omni/images/moss-local-transformer-arch.svg",
+      "date": "June 17, 2026"
+    },
     {
       "slug": "2026-06-17-ling-2-6-tpu",
       "title": "Optimizing Ling-2.6-1T on TPU with SGLang-JAX: Hiding MoE Data Movement Behind Compute with One Pallas Kernel",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-06-04-higgs-audio-v3-tts/",
       "image": "https://sgl-project.github.io/sglang-omni/_images/higgs-architecture.png",
       "date": "June 4, 2026"
-    },
-    {
-      "slug": "2026-06-01-hetero-epd",
-      "title": "Heterogeneous CPU + GPU EPD Disaggregation to Boost VLM Serving",
-      "url": "https://lmsys.org/blog/2026-06-01-hetero-epd/",
-      "image": "https://lmsys.org/images/blog/hetero-epd/1.png",
-      "date": "May 29, 2026"
     }
   ]
 }
