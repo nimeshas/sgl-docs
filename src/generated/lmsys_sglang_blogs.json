@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T14:49:46.394916Z",
+  "generatedAt": "2026-06-18T02:38:25.943229Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 90,
+  "totalBlogFilesScanned": 91,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-06-17-ling-2-6-tpu",
+      "title": "Optimizing Ling-2.6-1T on TPU with SGLang-JAX: Hiding MoE Data Movement Behind Compute with One Pallas Kernel",
+      "url": "https://lmsys.org/blog/2026-06-17-ling-2-6-tpu/",
+      "image": "https://lmsys.org/images/blog/2026-06-17-ling-2-6-tpu/hero.png",
+      "date": "June 17, 2026"
+    },
     {
       "slug": "2026-06-15-next-generation-speculative-decoding-dflash-v2",
       "title": "The next generation of speculative decoding: DFlash and Spec V2",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-06-01-hetero-epd/",
       "image": "https://lmsys.org/images/blog/hetero-epd/1.png",
       "date": "May 29, 2026"
-    },
-    {
-      "slug": "2026-05-28-mori",
-      "title": "Win on TCO: How AMD Instinct\u2122 MI355X Achieves Cost-Competitive Distributed Inference Through SGLang with MoRI",
-      "url": "https://lmsys.org/blog/2026-05-28-mori/",
-      "image": "https://lmsys.org/images/blog/mori/tco1-new.png",
-      "date": "May 28, 2026"
     }
   ]
 }
