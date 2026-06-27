@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T14:01:41.428181Z",
+  "generatedAt": "2026-06-27T02:09:15.224163Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 92,
+  "totalBlogFilesScanned": 93,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-06-26-waterfill-lplb",
+      "title": "Improving DeepEP MoE Load Balance in SGLang with Waterfill and LPLB",
+      "url": "https://lmsys.org/blog/2026-06-26-waterfill-lplb/",
+      "image": "https://lmsys.org/images/blog/waterfill_lplb/waterfill_timeline_nature_redraw.png",
+      "date": "June 26, 2026"
+    },
     {
       "slug": "2026-06-17-moss-tts-local-v15",
       "title": "MOSS-TTS Local Transformer v1.5 on SGLang-Omni: Serving Native-Streaming 48 kHz Speech",
@@ -46,13 +53,6 @@
       "title": "SGLang and Miles Add Day-0 Support for NVIDIA Nemotron 3 Ultra for Long-Running Autonomous Agents",
       "url": "https://lmsys.org/blog/2026-06-04-nvidia-run-nemotron-3-ultra/",
       "image": "https://lmsys.org/images/blog/nemotron-3-ultra/image1.png",
-      "date": "June 4, 2026"
-    },
-    {
-      "slug": "2026-06-04-higgs-audio-v3-tts",
-      "title": "Higgs Audio v3 TTS on SGLang-Omni: Real-Time, Controllable Speech for Voice Agents",
-      "url": "https://lmsys.org/blog/2026-06-04-higgs-audio-v3-tts/",
-      "image": "https://sgl-project.github.io/sglang-omni/_images/higgs-architecture.png",
       "date": "June 4, 2026"
     }
   ]
