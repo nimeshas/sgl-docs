@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T13:29:20.582943Z",
+  "generatedAt": "2026-07-09T01:55:04.513629Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,7 +10,7 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 95,
+  "totalBlogFilesScanned": 96,
   "cardsPublished": 6,
   "posts": [
     {
@@ -26,6 +26,13 @@
       "url": "https://lmsys.org/blog/2026-07-02-agent-assisted-sglang-development/",
       "image": "https://lmsys.org/images/blog/agent-assisted-sglang-development/sglang-agent-cover.png",
       "date": "July 2, 2026"
+    },
+    {
+      "slug": "2026-06-27-netpreme-xmem",
+      "title": "Accelerating SGLang HiCache with Netpreme X-Mem\u2122 MPU",
+      "url": "https://lmsys.org/blog/2026-06-27-netpreme-xmem/",
+      "image": "https://lmsys.org/images/blog/netpreme-xmem/figure1.png",
+      "date": "July 8, 2026"
     },
     {
       "slug": "2026-06-26-waterfill-lplb",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-06-17-ling-2-6-tpu/",
       "image": "https://lmsys.org/images/blog/2026-06-17-ling-2-6-tpu/hero.png",
       "date": "June 17, 2026"
-    },
-    {
-      "slug": "2026-06-15-next-generation-speculative-decoding-dflash-v2",
-      "title": "The next generation of speculative decoding: DFlash and Spec V2",
-      "url": "https://lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/",
-      "image": "https://lmsys.org/images/blog/dflash-v2/dflash-arch-diagram.webp",
-      "date": "June 15, 2026"
     }
   ]
 }
