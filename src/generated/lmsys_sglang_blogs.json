@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T01:24:29.444608Z",
+  "generatedAt": "2026-07-15T01:21:24.954768Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 97,
+  "totalBlogFilesScanned": 98,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-07-13-glm52-optimization",
+      "title": "Serving GLM5.2 NVFP4 Agentic Workload with SGLang: Reaching 500 TPS in 2 Weeks",
+      "url": "https://lmsys.org/blog/2026-07-13-glm52-optimization/",
+      "image": "https://lmsys.org/images/blog/glm52-optimization/glm52-nvfp4-performance-pareto.png",
+      "date": "July 14, 2026"
+    },
     {
       "slug": "2026-07-10-rocm-miles-dsv4",
       "title": "Bringing DeepSeek-V4 Flash RL Training to AMD Instinct MI355X GPUs with Miles",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-06-26-waterfill-lplb/",
       "image": "https://lmsys.org/images/blog/waterfill_lplb/waterfill_timeline_nature_redraw.png",
       "date": "June 26, 2026"
-    },
-    {
-      "slug": "2026-06-17-moss-tts-local-v15",
-      "title": "MOSS-TTS Local Transformer v1.5 on SGLang-Omni: Serving Native-Streaming 48 kHz Speech",
-      "url": "https://lmsys.org/blog/2026-06-17-moss-tts-local-v15/",
-      "image": "https://raw.githubusercontent.com/zhaochenyang20/Awesome-ML-SYS-Tutorial/main/sglang/sglang-omni/images/moss-local-transformer-arch.svg",
-      "date": "June 17, 2026"
     }
   ]
 }
