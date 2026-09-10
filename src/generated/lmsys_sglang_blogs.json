@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T02:01:27.354986Z",
+  "generatedAt": "2026-09-10T15:27:21.478269Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 120,
+  "totalBlogFilesScanned": 121,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-09-10-deepseek-v41",
+      "title": "SGLang and Miles Add Day-0 Support for DeepSeek-V4.1",
+      "url": "https://lmsys.org/blog/2026-09-10-deepseek-v41/",
+      "image": "https://lmsys.org/images/blog/deepseek-v41/preview.png",
+      "date": "September 10, 2026"
+    },
     {
       "slug": "2026-08-28-infer-forge-loop-engineering",
       "title": "Infer-forge: Harness, Loop, and Graph Engineering Around SGLang",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell/",
       "image": "https://lmsys.org/images/blog/ling3-flash-batch1/00_headline.png",
       "date": "August 21, 2026"
-    },
-    {
-      "slug": "2026-08-20-miles-mooncake-rollout-data-transfer",
-      "title": "Mooncake for Miles: From Fragmented Rollout Data to Efficient Bulk I/O",
-      "url": "https://lmsys.org/blog/2026-08-20-miles-mooncake-rollout-data-transfer/",
-      "image": "https://lmsys.org/images/blog/miles-mooncake-rollout-data-transfer/featured.png",
-      "date": "August 20, 2026"
     }
   ]
 }
