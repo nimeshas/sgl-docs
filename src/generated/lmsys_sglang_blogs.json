@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T19:18:13.176400Z",
+  "generatedAt": "2026-11-13T04:01:10.864391Z",
   "sourceRepo": "https://github.com/lm-sys/lm-sys.github.io/tree/main/blog",
   "keywords": [
     "sglang",
@@ -10,9 +10,16 @@
     "sglang diffusion"
   ],
   "maxCards": 6,
-  "totalBlogFilesScanned": 142,
+  "totalBlogFilesScanned": 143,
   "cardsPublished": 6,
   "posts": [
+    {
+      "slug": "2026-11-12-sglang-neuron-v0.1.0",
+      "title": "SGLang-Neuron v0.1.0: SGLang's Serving Stack on AWS Trainium",
+      "url": "https://lmsys.org/blog/2026-11-12-sglang-neuron-v0.1.0/",
+      "image": "https://lmsys.org/images/blog/sglang-neuron-v0.1.0/cover.webp",
+      "date": "November 12, 2026"
+    },
     {
       "slug": "2026-11-12-sglang-consortium",
       "title": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference",
@@ -47,13 +54,6 @@
       "url": "https://lmsys.org/blog/2026-11-02-hicache-distributed-serving/",
       "image": "https://lmsys.org/images/blog/hicache-distributed-serving/cover.jpg",
       "date": "November 2, 2026"
-    },
-    {
-      "slug": "2026-11-01-glm53-h200-pd",
-      "title": "Accelerating GLM-5.3-Flash on H200: High-Throughput Disaggregated Serving",
-      "url": "https://lmsys.org/blog/2026-11-01-glm53-h200-pd/",
-      "image": "https://lmsys.org/images/blog/glm53-h200-pd/cover.png",
-      "date": "November 1, 2026"
     }
   ]
 }
